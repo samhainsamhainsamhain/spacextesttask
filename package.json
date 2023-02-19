@@ -2,6 +2,7 @@
   "name": "ttt",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://samhainsamhainsamhain.github.io/spacextesttask",
   "type": "module",
   "scripts": {
     "dev": "vite",
